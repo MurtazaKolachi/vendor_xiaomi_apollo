@@ -8943,6 +8943,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libMegviiFacepp-0.5.2",
+    allow_undefined_symbols: true,
     owner: "xiaomi",
     strip: {
         none: true,
