@@ -480,6 +480,9 @@ PRODUCT_PACKAGES += \
     libwfduibcsrcinterface_proprietary \
     libwfdutils_proprietary \
     libasphere \
+    libqcbassboost \
+    libqcreverb \
+    libqcvirt \
     libshoebox \
     libswdap \
     libswgamedap \
