@@ -723,7 +723,7 @@ PRODUCT_PACKAGES += \
     liblqe \
     libmdmdetect \
     libmdmimgload \
-    libmegface_vendor \
+    libmegface \
     libmialgo_ie_capture \
     libmialgo_ie_preview \
     libmialgo_image_colourkeeping \

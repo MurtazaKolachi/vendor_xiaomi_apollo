@@ -12268,8 +12268,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
-    name: "libmegface_vendor",
-    stem: "libmegface",
+    name: "libmegface",
     owner: "xiaomi",
     strip: {
         none: true,
