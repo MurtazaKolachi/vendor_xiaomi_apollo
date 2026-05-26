@@ -453,7 +453,6 @@ PRODUCT_PACKAGES += \
     libwfduibcsrcinterface_proprietary \
     libwfdutils_proprietary \
     libasphere \
-    libmisoundfx \
     libqcbassboost \
     libqcreverb \
     libqcvirt \
@@ -586,7 +585,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.qteeconnector@1.0-impl \
     vendor.qti.hardware.sensorscalibrate@1.0-impl \
     vendor.qti.hardware.soter@1.0-impl \
-    vendor.xiaomi.hardware.campostproc@1.0-impl \
     vendor.xiaomi.hardware.touchfeature@1.0-impl \
     jcos_nq_client \
     lib-imscmservice \
