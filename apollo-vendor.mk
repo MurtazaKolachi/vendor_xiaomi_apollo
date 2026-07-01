@@ -1047,6 +1047,7 @@ PRODUCT_PACKAGES += \
     manifest_android.hardware.drm@1.3-service.widevine.xml \
     manifest_vendor.xiaomi.hardware.mlipay.xml \
     vendor.qti.gnss@4.0-service.xml \
+    chargeonlymode \
     ATFWD-daemon \
     adpl \
     adsprpcd \
