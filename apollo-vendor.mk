@@ -1082,6 +1082,7 @@ PRODUCT_PACKAGES += \
     manifest_vendor.dolby.hardware.dms.xml \
     manifest_vendor.xiaomi.hardware.mlipay.xml \
     vendor.qti.gnss@4.0-service.xml \
+    chargeonlymode \
     ATFWD-daemon \
     adpl \
     adsprpcd \
