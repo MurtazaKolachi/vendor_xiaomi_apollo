@@ -401,7 +401,6 @@ PRODUCT_PACKAGES += \
     libaudio_log_utils \
     libaudioparsers \
     libaudioroute_ext \
-    libbatterylistener \
     libbluetooth_audio_session_qti \
     libbluetooth_audio_session_qti_2_1 \
     libcapiv2svacnn \
