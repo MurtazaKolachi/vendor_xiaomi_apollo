@@ -359,7 +359,6 @@ PRODUCT_PACKAGES += \
     libadreno_utils \
     libadsprpc \
     libc2d30_bltlib \
-    libcamxexternalformatutils \
     libcdsprpc \
     libdiag \
     libfastcvdsp_stub \
@@ -588,7 +587,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.qteeconnector@1.0-impl \
     vendor.qti.hardware.sensorscalibrate@1.0-impl \
     vendor.qti.hardware.soter@1.0-impl \
-    vendor.xiaomi.hardware.campostproc@1.0-impl \
     vendor.xiaomi.hardware.touchfeature@1.0-impl \
     jcos_nq_client \
     lib-imscmservice \
@@ -652,6 +650,7 @@ PRODUCT_PACKAGES += \
     libcamera_nn_stub \
     libcamera_scene \
     libcamerapostproc \
+    libcamxexternalformatutils \
     libcamxfacialfeatures \
     libcamxfdalgo \
     libcamxfdengine \
